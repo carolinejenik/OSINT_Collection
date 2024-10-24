@@ -1066,6 +1066,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [container-tracking (Cargo)](http://container-tracking.org)
 - [Panjiva (Cargo)](https://panjiva.com/search)
 - [Import Genius (Cargo)](http://importgenius.com/)
+- [Global import export data provider (Cargo)](https://eximtradedata.com/)
 
 ### Memes
 - [Know Your Meme](https://knowyourmeme.com)
